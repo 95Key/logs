@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b5017f0-9fbf-4cd1-b3cd-82b7e6072b0f" name="默认的" comment="">
+      <change afterPath="$PROJECT_DIR$/logs_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs.go" beforeDir="false" afterPath="$PROJECT_DIR$/logs.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1gWgPPSH1R29ybdrT7PY3QhxaWO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RunManager" selected="Go 测试.github.com/95Key/logs 中的 Test_logName (3)">
+    <configuration name="github.com/95Key/logs 中的 Test_logName (1)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="logs" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/95Key/logs" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTest_logName\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="github.com/95Key/logs 中的 Test_logName (2)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="logs" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/95Key/logs" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTest_logName\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="github.com/95Key/logs 中的 Test_logName (3)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="logs" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/95Key/logs" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTest_logName\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="github.com/95Key/logs 中的 Test_logName" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="logs" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/95Key/logs" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTest_logName\E$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go 测试.github.com/95Key/logs 中的 Test_logName (3)" />
+        <item itemvalue="Go 测试.github.com/95Key/logs 中的 Test_logName (2)" />
+        <item itemvalue="Go 测试.github.com/95Key/logs 中的 Test_logName (1)" />
+        <item itemvalue="Go 测试.github.com/95Key/logs 中的 Test_logName" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <environment>
+      <map>
+        <entry key="GOPROXY" value="https://goproxy.cn,direct" />
+      </map>
+    </environment>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2006" height="356" key="GridCell.Tab.0.bottom" timestamp="1598236082410">
+      <screen x="0" y="23" width="2048" height="1257" />
+    </state>
+    <state width="2006" height="356" key="GridCell.Tab.0.bottom/0.23.2048.1257@0.23.2048.1257" timestamp="1598236082410" />
+    <state width="2006" height="356" key="GridCell.Tab.0.center" timestamp="1598236082409">
+      <screen x="0" y="23" width="2048" height="1257" />
+    </state>
+    <state width="2006" height="356" key="GridCell.Tab.0.center/0.23.2048.1257@0.23.2048.1257" timestamp="1598236082409" />
+    <state width="2006" height="356" key="GridCell.Tab.0.left" timestamp="1598236082408">
+      <screen x="0" y="23" width="2048" height="1257" />
+    </state>
+    <state width="2006" height="356" key="GridCell.Tab.0.left/0.23.2048.1257@0.23.2048.1257" timestamp="1598236082408" />
+    <state width="2006" height="356" key="GridCell.Tab.0.right" timestamp="1598236082409">
+      <screen x="0" y="23" width="2048" height="1257" />
+    </state>
+    <state width="2006" height="356" key="GridCell.Tab.0.right/0.23.2048.1257@0.23.2048.1257" timestamp="1598236082409" />
+    <state x="1037" y="290" key="SettingsEditor" timestamp="1598235787136">
+      <screen x="0" y="23" width="2048" height="1257" />
+    </state>
+    <state x="1037" y="290" key="SettingsEditor/0.23.2048.1257@0.23.2048.1257" timestamp="1598235787136" />
+  </component>
+</project>

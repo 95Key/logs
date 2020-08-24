@@ -2,6 +2,8 @@ package logs
 
 import (
 	"os"
+	"os/user"
+	"path"
 
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
@@ -11,8 +13,10 @@ import (
 var log *zap.Logger
 
 func init() {
+
+
 	hook := lumberjack.Logger{
-		Filename:   "./data/log/log.log", // 日志文件路径
+		Filename:   logName(), // 日志文件路径
 		MaxSize:    1,                    // 每个日志文件保存的最大尺寸 单位：M
 		MaxBackups: 1,                    // 日志文件最多保存多少个备份
 		MaxAge:     2,                    // 文件最多保存多少天
@@ -54,6 +58,16 @@ func init() {
 	// 构造日志
 	log = zap.New(core, caller, AddCallerSkip, development, zap.Fields())
 	log.Info("系统启动")
+}
+
+
+func logName()string{
+	u,err:= user.Current()
+	if err!= nil {
+		println("获取不到 user.Current",err.Error())
+		panic(err)
+	}
+	return path.Join("./","data","log",u.Username+".log")
 }
 
 func Warn(msg string, fields ...zap.Field) {
